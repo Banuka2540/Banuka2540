@@ -21,12 +21,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-# 🚀 Projects
-- [Portfolio Website](https://github.com/Banuka2540/Django-portfolio) – Personal portfolio built with Django & CSS.
-- [NumPy Array Calculator](https://github.com/Banuka2540/Matrix_Calculator) – CLI-based array and matrix operations tool.
-- [task manager](https://github.com/Banuka2540/tasksmanager) – Task manager built with Django & CSS.
 
 ---
 
