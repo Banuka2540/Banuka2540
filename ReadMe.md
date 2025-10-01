@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuthila Banuka</h1>
-<h3 align="center">L/DL Enthusiast | Bsc(Hons) Information Systems</h3>
+<h3 align="center">ML/DL Enthusiast | Bsc(Hons) Information Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banuka2540&label=Profile%20views&color=0e75b6&style=flat" alt="banuka2540" /> </p>
 
