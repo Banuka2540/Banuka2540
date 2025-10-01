@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23512
-Fork on GitHub
-8029
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Yuthila Banuka</h1>
 <h3 align="center">L/DL Enthusiast | Bsc(Hons) Information Systems</h3>
 
