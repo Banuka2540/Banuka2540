@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banuka2540&label=Profile%20views&color=0e75b6&style=flat" alt="banuka2540" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banuka2540" alt="banuka2540" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://yuthila.pythonanywhere.com/](https://yuthila.pythonanywhere.com/)
