@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://yuthila.pythonanywhere.com/](https://yuthila.pythonanywhere.com/)
-
 - 📫 How to reach me **banukadeseram12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
