@@ -81,4 +81,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=banuka2540&show_icons=true&locale=en" alt="banuka2540" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=banuka2540&" alt="banuka2540" /></p>
